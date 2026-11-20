@@ -29,7 +29,11 @@ Mantengo infraestructuras seguras, vigiladas y bien documentadas, y en casa hago
 
 ### Últimas entradas del blog
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Copia fuera de casa — restic cifrado en Cloudflare R2, por 0 €](https://blog.jelopez.link/blog/copia-fuera-de-casa-restic-r2/)
+- [Jellyfin — películas y series en el homelab, compartiendo carpeta con Nextcloud](https://blog.jelopez.link/blog/jellyfin-peliculas-series/)
+- [Un panel propio para el homelab &lpar;adiós, Homarr&rpar;](https://blog.jelopez.link/blog/panel-homelab-propio/)
+- [El homelab en dos esquemas: la red y los servicios](https://blog.jelopez.link/blog/homelab-esquemas-red/)
+- [Nextcloud — mi propia nube en el homelab en lugar de pagar más iCloud](https://blog.jelopez.link/blog/nextcloud-nube-personal/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Formación
